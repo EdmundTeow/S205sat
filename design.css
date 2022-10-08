@@ -1,0 +1,15 @@
+body
+{
+    background-image: url("https://wallpaperaccess.com/full/3927723.jpg");
+    background-repeat: repeat;
+    color: aliceblue;
+    text-align: center;
+}
+#Img0:hover
+{
+    opacity: 0.8;
+}
+a
+{
+    color:royalblue;
+}
